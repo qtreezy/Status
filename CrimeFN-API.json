@@ -1,4 +1,7 @@
 {
   "CrimeFN-version" : "version 3",
-  "Fortnite-Version" : "19.01"
+  "Fortnite-Version" : "19.01",
+  "Eac Link" : "https://cdn.discordapp.com/attachments/894211803771445258/926242131910225930/FortniteClient-Win64-Shipping_EAC.exe",
+  "BE Link" : "https://cdn.discordapp.com/attachments/894211803771445258/926242131683713044/FortniteClient-Win64-Shipping_BE.exe",
+  "Dll Link : "https://cdn.discordapp.com/attachments/894211803771445258/926243301525430322/CrimeFN.dll",
 }
